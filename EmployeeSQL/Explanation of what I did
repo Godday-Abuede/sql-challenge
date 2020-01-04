@@ -1,0 +1,3 @@
+I have inspected the CSVs and then creating an ERD of the tables for the SQLhomework_db, using Quick Database Diagrams tool. 
+I exported the ERD to PostgreSQL, and this created a table schema for each CSV file, and with the respective data types, primary keys and foreign keys.
+In the bonus part, I queried the SQLhomework_db with respect to the questions on the instruction note. I created an engine to import the SQL Database into Pandas. I performed the required manipulation and then visualized the data in histogram and a bar chart.
